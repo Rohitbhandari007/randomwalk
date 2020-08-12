@@ -42,6 +42,6 @@ while isInScreen(wn, t):
 	elif step == 2:
 		t.fd(0)
 	else:
-		t.bk(2)
+		t.bk(20)
 
 turtle.mainloop()
